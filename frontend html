@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI-Driven Data Analytics Platform</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>AI-Driven Data Analytics Platform</h1>
+        <nav>
+            <ul>
+                <li><a href="#features">Features</a></li>
+                <li><a href="#pricing">Pricing</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="hero">
+        <h2>Turn Your Data into Actionable Insights</h2>
+        <p>Leverage AI to simplify data analysis and drive business decisions.</p>
+        <button onclick="showDemo()">Watch Demo</button>
+    </section>
+
+    <section id="features">
+        <h2>Key Features</h2>
+        <ul>
+            <li>Automated Data Ingestion</li>
+            <li>AI-Driven Insights</li>
+            <li>Customizable Dashboards</li>
+            <li>Natural Language Processing</li>
+            <li>Scalability and Security</li>
+        </ul>
+    </section>
+
+    <section id="pricing">
+        <h2>Pricing Plans</h2>
+        <div class="pricing-plan">
+            <h3>Basic</h3>
+            <p>$29/month</p>
+            <p>Essential features for small businesses</p>
+        </div>
+        <div class="pricing-plan">
+            <h3>Pro</h3>
+            <p>$79/month</p>
+            <p>Advanced features for growing businesses</p>
+        </div>
+        <div class="pricing-plan">
+            <h3>Enterprise</h3>
+            <p>Contact Us</p>
+            <p>Custom solutions for large enterprises</p>
+        </div>
+    </section>
+
+    <footer>
+        <section id="contact">
+            <h2>Contact Us</h2>
+            <p>Email: info@ai-analytics.com</p>
+            <p>Phone: (123) 456-7890</p>
+        </section>
+        <p>&copy; 2024 AI-Driven Data Analytics Platform</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
